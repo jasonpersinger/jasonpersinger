@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jasonpersinger
-- 👀 I’m interested in learning web development, text-based RPGs, and tying my brain into knots.
-- 🌱 I’m currently learning the basic stuff first:  GIT, HTML, CSS, JAVASCCRIPT.
-- 💞️ I’m looking to collaborate on team projects or personal projects.  I just want to gain access to situations where I can demonstrate skills required to move a project forward.
+- 👀 My hobbies include: learning web development, text-based RPGs, and spending time with my dog (Clarke)
+- 🌱 I’m currently (03/07/22) working to learn web development via The Odin Project.
+- 💞️ I am always looking to collaborate on team projects or personal projects.  My potfolio is pretty sparse so anything helps.
 - 📫 How to reach me: Please feel free to contact me in any of the following ways:  email: jason.persinger@gmail.com, discord: lodestonecowboy#6977, telephone 540.394.8222.
 
 <!---
