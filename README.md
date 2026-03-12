@@ -17,7 +17,7 @@
 
 ### 👾 Who I Am
 
-I'm Jason — founder of **[Pixel Patcher](https://pixelpatcher.com)**, a locally owned mobile PC repair business serving Roanoke, VA and the surrounding communities. I come to you: at home, at your business, no storefront, no runaround.
+I'm Jason - founder of **[Pixel Patcher](https://pixelpatcher.com)**, a locally owned mobile PC repair business serving Roanoke, VA and the surrounding communities. I come to you: at home, at your business, no storefront, no runaround.
 
 By day I work as a **Software Analyst** at AbsenceSoft, digging into enterprise SaaS workflows, integrations, and the kinds of bugs that only show up in production. Before that I led support teams at Binance.US and managed K-12 software implementations at PowerSchool.
 
@@ -30,10 +30,10 @@ The throughline: I like figuring out why things break, and I like fixing them.
 ```
 PC Repair & Diagnostics    Virus & Malware Removal
 Hardware Upgrades          Data Recovery
-Remote Support             Roanoke Valley — we come to you
+Remote Support             Roanoke Valley - we come to you
 ```
 
-> *Honest, affordable, and fast — delivered personally, without the runaround of big box stores.*
+> *Honest, affordable, and fast - delivered personally, without the runaround of big box stores.*
 
 ---
 
@@ -54,7 +54,7 @@ Remote Support             Roanoke Valley — we come to you
 
 ### 📂 What You'll Find Here
 
-Most of my repos are practical things I've built for the business or for myself — a single-file accounting app, a remote support portal, business tooling. No frameworks for the sake of frameworks. Just stuff that works.
+Most of my repos are practical things I've built for the business or for myself - a single-file accounting app, a remote support portal, business tooling. No frameworks for the sake of frameworks. Just stuff that works.
 
 ---
 
@@ -63,7 +63,5 @@ Most of my repos are practical things I've built for the business or for myself 
 <div align="center">
 
 **540-300-2577 · [pixelpatcher.com](https://pixelpatcher.com)**
-
-*Trustworthy. Approachable. Local. Capable.*
 
 </div>
