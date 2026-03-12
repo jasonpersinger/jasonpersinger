@@ -19,7 +19,7 @@
 
 I'm Jason - founder of **[Pixel Patcher](https://pixelpatcher.com)**, a locally owned mobile PC repair business serving Roanoke, VA and the surrounding communities. I come to you: at home, at your business, no storefront, no runaround.
 
-By day I work as a **Software Analyst** at AbsenceSoft, digging into enterprise SaaS workflows, integrations, and the kinds of bugs that only show up in production. Before that I led support teams at Binance.US and managed K-12 software implementations at PowerSchool.
+By day I work as a **Software Analyst** at a leave management SaaS company, digging into enterprise workflows, integrations, and the kinds of bugs that only show up in production. Before that I led support teams at a major cryptocurrency exchange and managed K-12 software implementations at an ed-tech company.
 
 The throughline: I like figuring out why things break, and I like fixing them.
 
