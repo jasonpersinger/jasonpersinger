@@ -15,50 +15,22 @@
 
 ---
 
-### 👾 Who I Am
+###  Who I Am
 
 I'm Jason - founder of **[Pixel Patcher](https://pixelpatcher.com)**, a locally owned mobile PC repair business serving Roanoke, VA and the surrounding communities. I come to you: at home, at your business, no storefront, no runaround.
 
-By day I work as a **Software Analyst** at a leave management SaaS company, digging into enterprise workflows, integrations, and the kinds of bugs that only show up in production. Before that I led support teams at a major cryptocurrency exchange and managed K-12 software implementations at an ed-tech company.
+By day I work as a **Software Analyst** at a leave management SaaS company, digging into enterprise workflows, integrations, and the kinds of bugs that only show up in production.
 
-The throughline: I like figuring out why things break, and I like fixing them.
-
----
-
-### 🔧 What Pixel Patcher Does
-
-```
-PC Repair & Diagnostics    Virus & Malware Removal
-Hardware Upgrades          Data Recovery
-Remote Support             Roanoke Valley - we come to you
-```
-
-> *Honest, affordable, and fast - delivered personally, without the runaround of big box stores.*
 
 ---
 
-### 🛠️ Tech I Work With
+###  What You'll Find Here
 
-![Linux](https://img.shields.io/badge/Linux-C9A000?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4B2A8C?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-C9A000?style=flat-square&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-4B2A8C?style=flat-square&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-C9A000?style=flat-square&logo=git&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-4B2A8C?style=flat-square&logo=firebase&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-C9A000?style=flat-square&logo=salesforce&logoColor=black)
-![JIRA](https://img.shields.io/badge/JIRA-4B2A8C?style=flat-square&logo=jira&logoColor=white)
-
-**Domain focus:** Technical support · SaaS platforms · API troubleshooting · Root cause analysis · LLM & AI products · Knowledge base development · Support process improvement
+Most of my repos are practical things I've built for the business or for myself - a single-file accounting app, a remote support portal, business tooling. 
 
 ---
 
-### 📂 What You'll Find Here
-
-Most of my repos are practical things I've built for the business or for myself - a single-file accounting app, a remote support portal, business tooling. No frameworks for the sake of frameworks. Just stuff that works.
-
----
-
-### 📍 Based in Roanoke, VA
+### 📍  Roanoke, VA
 
 <div align="center">
 
