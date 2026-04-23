@@ -1,39 +1,27 @@
-<div align="center">
+# Jason Persinger
 
-<img src="https://pixelpatcher.com/Branding/logoblack_color.png" width="160" alt="Pixel Patcher Logo" />
+I am a software analyst in Roanoke, Virginia who likes building practical things.
 
-# PIXEL PATCHER
+By day, I work on leave-management SaaS: workflows, integrations, production bugs, and all the messy edge cases that live between systems. Outside of work, I build websites, product ideas, embedded gadgets, internal tools, and the occasional internet side quest.
 
-**`FROM PIXELS TO PROCESSORS`**
+I also run [Pixel Patcher](https://pixelpatcher.com), a local mobile PC repair business, but this profile is mostly about me and the projects I tinker with.
 
-*Mobile PC Repair · Roanoke, VA*
+## What you will find here
 
-[![Website](https://img.shields.io/badge/pixelpatcher.com-C9A000?style=for-the-badge&logo=googlechrome&logoColor=black)](https://pixelpatcher.com)
-[![Email](https://img.shields.io/badge/jason@pixelpatcher.com-4B2A8C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jason@pixelpatcher.com)
+- Small business tooling and storefronts
+- Static sites with strong branding and clear purpose
+- ESP32 and hardware-adjacent experiments
+- Utility projects that start as "I need this to exist"
 
-</div>
+## A few representative projects
 
----
+- [sloplocks](https://github.com/jasonpersinger/sloplocks) - an EPL prediction engine built around Dixon-Coles, xG, Elo, and bookmaker edge detection
+- [CYD-ESP32-PIHOLE-DASHBOARD](https://github.com/jasonpersinger/CYD-ESP32-PIHOLE-DASHBOARD) - a Pi-hole stats dashboard for the ESP32 Cheap Yellow Display
+- [satscratcher](https://github.com/jasonpersinger/satscratcher) - a pixel-art Bitcoin desk toy project with storefront, branding, and firmware assets
+- [jasonpersinger-cv](https://github.com/jasonpersinger/jasonpersinger-cv) - my CV site
 
-###  Who I Am
+## Elsewhere
 
-I'm Jason - founder of **[Pixel Patcher](https://pixelpatcher.com)**, a locally owned mobile PC repair business serving Roanoke, VA and the surrounding communities. I come to you: at home, at your business, no storefront, no runaround.
-
-By day I work as a **Software Analyst** at a leave management SaaS company, digging into enterprise workflows, integrations, and the kinds of bugs that only show up in production.
-
-
----
-
-###  What You'll Find Here
-
-Most of my repos are practical things I've built for the business or for myself - a single-file accounting app, a remote support portal, business tooling. 
-
----
-
-### 📍  Roanoke, VA
-
-<div align="center">
-
-**540-300-2577 · [pixelpatcher.com](https://pixelpatcher.com)**
-
-</div>
+- [jasonpersinger.cv](https://jasonpersinger.cv)
+- [holler.works](https://holler.works)
+- [Pixel Patcher](https://pixelpatcher.com)
