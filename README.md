@@ -19,7 +19,6 @@ I also run [Pixel Patcher](https://pixelpatcher.com), a local mobile PC repair b
 
 - [PiPulse](https://github.com/jasonpersinger/PiPulse) — ESP32 touchscreen firmware for real-time Pi-hole network stats
 - [COMPUWATCH8000](https://github.com/jasonpersinger/COMPUWATCH8000) — LAN status console on an ESP32 Cheap Yellow Display; polls a FastAPI service for Docker, system, network, and site health, with touch detail screens and allowlisted restart actions
-- [satscratcher](https://github.com/jasonpersinger/satscratcher) — pixel-art Bitcoin desk toy with storefront, branding, and firmware assets
 
 **On the web**
 
