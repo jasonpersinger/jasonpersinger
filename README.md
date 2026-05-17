@@ -4,6 +4,8 @@ I am a software analyst in Roanoke, Virginia who likes building practical things
 
 By day, I work on leave-management SaaS: workflows, integrations, production bugs, and all the messy edge cases that live between systems. Outside of work, I build websites, product ideas, embedded gadgets, internal tools, and the occasional internet side quest.
 
+I also run [Pixel Patcher](https://pixelpatcher.com), a local mobile PC repair business, but this profile is mostly about me and the projects I tinker with.
+
 ## What you will find here
 
 - Small business tooling and storefronts
@@ -11,14 +13,16 @@ By day, I work on leave-management SaaS: workflows, integrations, production bug
 - ESP32 and hardware-adjacent experiments
 - Utility projects that start as "I need this to exist"
 
-## A few representative projects
+## Projects & links
 
-- [sloplocks](https://github.com/jasonpersinger/sloplocks) - an sports prediction engine built around Dixon-Coles, xG, Elo, and bookmaker edge detection
-- [CYD-ESP32-PIHOLE-DASHBOARD](https://github.com/jasonpersinger/CYD-ESP32-PIHOLE-DASHBOARD) - a Pi-hole stats dashboard for the ESP32 Cheap Yellow Display
-- [jasonpersinger-cv](https://github.com/jasonpersinger/jasonpersinger-cv) - my CV site
+**Projects**
 
-## Elsewhere
+- [PiPulse](https://github.com/jasonpersinger/PiPulse) — ESP32 touchscreen firmware for real-time Pi-hole network stats
+- [COMPUWATCH8000](https://github.com/jasonpersinger/COMPUWATCH8000) — LAN status console on an ESP32 Cheap Yellow Display; polls a FastAPI service for Docker, system, network, and site health, with touch detail screens and allowlisted restart actions
+- [satscratcher](https://github.com/jasonpersinger/satscratcher) — pixel-art Bitcoin desk toy with storefront, branding, and firmware assets
 
-- [jasonpersinger.cv](https://jasonpersinger.cv)
-- [holler.works](https://holler.works)
-- [Pixel Patcher](https://pixelpatcher.com)
+**On the web**
+
+- [jasonpersinger.cv](https://jasonpersinger.cv) — CV and work history
+- [holler.works](https://holler.works) — tech job board focused on Appalachia; human-reviewed listings, compensation required
+- [Pixel Patcher](https://pixelpatcher.com) — local mobile PC repair in Roanoke, Virginia
