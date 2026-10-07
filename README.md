@@ -4,8 +4,6 @@ I am a software analyst in Roanoke, Virginia who likes building practical things
 
 By day, I work on leave-management SaaS: workflows, integrations, production bugs, and all the messy edge cases that live between systems. Outside of work, I build websites, product ideas, embedded gadgets, internal tools, and the occasional internet side quest.
 
-I also run [Pixel Patcher](https://pixelpatcher.com), a local mobile PC repair business, but this profile is mostly about me and the projects I tinker with.
-
 ## What you will find here
 
 - Small business tooling and storefronts
@@ -23,5 +21,4 @@ I also run [Pixel Patcher](https://pixelpatcher.com), a local mobile PC repair b
 **On the web**
 
 - [jasonpersinger.cv](https://jasonpersinger.cv) — CV and work history
-- [holler.works](https://holler.works) — tech job board focused on Appalachia; human-reviewed listings, compensation required
-- [Pixel Patcher](https://pixelpatcher.com) — local mobile PC repair in Roanoke, Virginia
+
