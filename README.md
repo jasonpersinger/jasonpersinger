@@ -1,24 +1,22 @@
-# Jason Persinger
+ # Jason Persinger
 
-I am a software analyst in Roanoke, Virginia who likes building practical things.
+    IT support technician, Linux tinkerer, and builder of hardware appliances, privacy utilities, and local-first software in
+    Roanoke, Virginia.
 
-By day, I work on leave-management SaaS: workflows, integrations, production bugs, and all the messy edge cases that live between systems. Outside of work, I build websites, product ideas, embedded gadgets, internal tools, and the occasional internet side quest.
+    🌐 https://jasonpersinger.me · 💼 [LinkedIn](https://www.linkedin.com/in/jmpersinger) · 🦋
+    [@hollerknight](https://bsky.app/profile/hollerknight.bsky.social)
 
-## What you will find here
+    ---
 
-- Small business tooling and storefronts
-- Static sites with strong branding and clear purpose
-- ESP32 and hardware-adjacent experiments
-- Utility projects that start as "I need this to exist"
+    ### Featured Builds
 
-## Projects & links
-
-**Projects**
-
-- [PiPulse](https://github.com/jasonpersinger/PiPulse) — ESP32 touchscreen firmware for real-time Pi-hole network stats
-- [COMPUWATCH8000](https://github.com/jasonpersinger/COMPUWATCH8000) — LAN status console on an ESP32 Cheap Yellow Display; polls a FastAPI service for Docker, system, network, and site health, with touch detail screens and allowlisted restart actions
-
-**On the web**
-
-- [jasonpersinger.cv](https://jasonpersinger.cv) — CV and work history
-
+    * **[GHOULBOX](https://github.com/jasonpersinger/ghoulbox-fm1-dungeon-synth)** — Open-source dungeon synth firmware, DSP
+    engine, and WebUSB browser flasher for the M-VAVE FM-1 pocket synthesizer.
+    * **[Homewire](https://github.com/jasonpersinger/obsidian-homewire)** — Daily morning dashboard plugin for Obsidian with
+    multi-source RSS/Atom wire, Open-Meteo weather, and live market sparklines.
+    * **[PGPGOBLIN](https://github.com/jasonpersinger/PGPGOBLIN)** — Zero-friction, 8-bit inspired Linux desktop scratchpad
+    for native GnuPG encryption, signing, and key management (available on PyPI and Arch Linux).
+    * **https://starcitygazer.org** ([Repo](https://github.com/jasonpersinger/starcitygazer-site)) — Automated civic records
+    archive and search platform for Roanoke City Council, powered by SQLite, systemd timers, and Pagefind.
+    * **[PiPulse](https://github.com/jasonpersinger/PiPulse)** — Dedicated ESP32 2.8" color touchscreen appliance for
+    real-time Pi-hole v6 DNS telemetry.
